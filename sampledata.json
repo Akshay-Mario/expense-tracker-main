@@ -1,0 +1,32 @@
+{
+  "users": {
+    "akshay1997qw": {
+      "password": "password87"
+    },
+    "umr": {
+      "password": "password87"
+    }
+  },
+  "expense": {
+    "akshay1997qw": {
+      "4_1997": {
+        "aaf9d1b6": {
+          "description": "test",
+          "date": 10,
+          "amount": 23,
+          "bill_type": "bill"
+        }
+      }
+    },
+    "umr": {
+      "5_1997": {
+        "aaf9d1b6": {
+          "description": "test",
+          "date": 17,
+          "amount": 23,
+          "bill_type": "bill"
+        }
+      }
+    }
+  }
+}
