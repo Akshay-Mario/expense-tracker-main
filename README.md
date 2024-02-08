@@ -16,7 +16,7 @@ This is a simple React Native application designed for managing expenses. The ap
 ## Firebase Configuration
 1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
 2. Add a new web app to your Firebase project and copy the configuration.
-3. Create a file named `.env` in the project root and add your Firebase configuration:
+3. Add your firebase configuration to firebase.js file:
    ```env
    FIREBASE_API_KEY=your_api_key
    FIREBASE_AUTH_DOMAIN=your_auth_domain
