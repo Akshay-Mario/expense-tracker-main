@@ -24,3 +24,17 @@ This is a simple React Native application designed for managing expenses. The ap
    FIREBASE_STORAGE_BUCKET=your_storage_bucket
    FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
    FIREBASE_APP_ID=your_app_id
+
+## Screenshots
+
+### Sign In Screen
+![SignIn Screen]([screenshots/signin.png](https://github.com/Akshay-Mario/expense-tracker-main/blob/main/assets/Screenshot_20240208-060714.jpg))
+
+### All Expenses Screen
+![All Expenses Screen]([screenshots/allexpenses.png](https://github.com/Akshay-Mario/expense-tracker-main/blob/main/assets/Screenshot_20240208-060714.jpg))
+
+### Add Expense, Savings, and Income Screen
+![Add Expense Screen]([screenshots/addexpense.png](https://github.com/Akshay-Mario/expense-tracker-main/blob/main/assets/Screenshot_20240208-060714.jpg))
+
+### Analytics Screen
+![Analytics Screen]([screenshots/analytics.png](https://github.com/Akshay-Mario/expense-tracker-main/blob/main/assets/Screenshot_20240208-060714.jpg))
