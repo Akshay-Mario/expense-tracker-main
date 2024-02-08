@@ -28,7 +28,7 @@ This is a simple React Native application designed for managing expenses. The ap
 ## Screenshots
 
 ### Sign In Screen
-![SignIn Screen](assets/Screenshot_20240208-060802.jpg)
+![SignIn Screen](assets/SignInScreen.jpg)
 
 ### All Expenses Screen
 ![All Expenses Screen](https://github.com/Akshay-Mario/expense-tracker-main/blob/main/assets/Screenshot_20240208-060714.jpg)
